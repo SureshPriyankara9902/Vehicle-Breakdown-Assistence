@@ -123,24 +123,18 @@ This project simplifies building, configuring, and deploying complex multi-platf
 > **Note**: The following screenshots showcase the key features and user interface of both applications.
 
 ### User App Interface
-![User App Overview]<img width="363" height="807" alt="image" src="https://github.com/user-attachments/assets/496e6fa8-3c29-483c-a091-a47eb038b9e7" />
+
 
 <img width="430" height="867" alt="image" src="https://github.com/user-attachments/assets/d7ec7f89-d2e6-45d6-8d2a-cf6098742797" />
-<img width="426" height="947" alt="image" src="https://github.com/user-attachments/assets/047a544f-50f9-4abd-b0d4-a8a8cee90e99" />
-<img width="426" height="887" alt="image" src="https://github.com/user-attachments/assets/150b3863-9ba7-4626-96cf-8ef0f4175f26" />
+
 
 
 
 *Main interface showing map integration and user features*
 
 ### Helper App Interface  
-![Helper App Overview]<img width="408" height="906" alt="image" src="https://github.com/user-attachments/assets/0060deb3-e478-47dc-b175-6caf97012b2e" />
 
 <img width="416" height="911" alt="image" src="https://github.com/user-attachments/assets/33551f8c-f399-4b71-89f3-ca24f1861b6b" />
-
-<img width="404" height="836" alt="image" src="https://github.com/user-attachments/assets/44441bdd-b6c5-4651-a68c-110fc49fd4fc" />
-
-<img width="852" height="854" alt="image" src="https://github.com/user-attachments/assets/fd55f1b7-2d1b-4007-8932-a1129e1162f7" />
 
 *Helper dashboard with trip management and navigation features*
 
@@ -523,4 +517,5 @@ This project is submitted as part of the final year project requirements for HOR
 
 
 *Last Updated: September 2025*
+
 
