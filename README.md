@@ -125,7 +125,8 @@ This project simplifies building, configuring, and deploying complex multi-platf
 ### User App Interface
 
 
-<img width="430" height="867" alt="image" src="https://github.com/user-attachments/assets/d7ec7f89-d2e6-45d6-8d2a-cf6098742797" />
+<img width="430" height="867" alt="image" src="https://github.com/user-attachments/assets/d7ec7f89-d2e6-45d6-8d2a-cf6098742797" /> <img width="426" height="947" alt="image" src="https://github.com/user-attachments/assets/41cbff39-c968-492e-af2a-599a8c59ac0a" />
+
 
 
 
@@ -134,7 +135,8 @@ This project simplifies building, configuring, and deploying complex multi-platf
 
 ### Helper App Interface  
 
-<img width="416" height="911" alt="image" src="https://github.com/user-attachments/assets/33551f8c-f399-4b71-89f3-ca24f1861b6b" />
+<img width="416" height="911" alt="image" src="https://github.com/user-attachments/assets/33551f8c-f399-4b71-89f3-ca24f1861b6b" /><img width="388" height="841" alt="image" src="https://github.com/user-attachments/assets/033776bb-78d1-4c19-b474-23c0b9158626" />
+
 
 *Helper dashboard with trip management and navigation features*
 
@@ -517,5 +519,6 @@ This project is submitted as part of the final year project requirements for HOR
 
 
 *Last Updated: September 2025*
+
 
 
