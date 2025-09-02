@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "493510317168",
+    "firebase_url": "https://careride-bd2be-default-rtdb.firebaseio.com",
+    "project_id": "careride-bd2be",
+    "storage_bucket": "careride-bd2be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493510317168:android:e0224611d965211da9d0b5",
+        "android_client_info": {
+          "package_name": "com.example.helper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwSvuEL9-0RoHeJQ3CVKmpk1fuIvGfw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493510317168:android:563323dbe0e29f0fa9d0b5",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwSvuEL9-0RoHeJQ3CVKmpk1fuIvGfw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
