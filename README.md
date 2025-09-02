@@ -478,13 +478,13 @@ copies or substantial portions of the Software.
 - **Project**: Vehicle Breakdown Assistance System
 - **University**: Final Year Project
 - **Academic Year**: 2024
-- **Course**: Computer Science/Software Engineering
+- **Course**: Information Technology
 
 ### Developer Contact
 - **Developer**: Suresh
-- **Email**: your.email@university.edu
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: Suresh68004@gmail.com
+- **GitHub**: [My Github Profile](https://github.com/SureshPriyankara9902)
+- **LinkedIn**: [My LinkedIn Profile](http://linkedin.com/in/suresh-priyankara-753319284)
 
 ### Project Links
 - **GitHub Repository**: [Vehicle Breakdown Assistance](https://github.com/yourusername/vehicle-breakdown-assistance)
@@ -494,7 +494,7 @@ copies or substantial portions of the Software.
 ---
 
 ### 🎓 Academic Note
-This project is submitted as part of the final year project requirements for [Your University Name], [Department Name]. The application demonstrates practical implementation of mobile app development, real-time systems, and cloud integration technologies.
+This project is submitted as part of the final year project requirements for HORIZON CAMPUS, Department of Information Technology. The application demonstrates practical implementation of mobile app development, real-time systems, and cloud integration technologies.
 
 ### 🙏 Acknowledgments
 - **University Faculty** for guidance and support
@@ -507,4 +507,5 @@ This project is submitted as part of the final year project requirements for [Yo
 
 **⭐ If you find this project helpful, please consider giving it a star on GitHub!**
 
-*Last Updated: September 2024*
+
+*Last Updated: September 2025*
